@@ -13,7 +13,7 @@ public class ExemploLinkedHashSet {
         frutas.add("Uva");
         frutas.add("Kiwi");
         frutas.add("Pera");
-        frutas.add("Kiwi"); // Está repetida novamente
+        frutas.add("Kiwi"); // Outro elemento repetido
 
 
         // Resultado do LinkedHashSet
