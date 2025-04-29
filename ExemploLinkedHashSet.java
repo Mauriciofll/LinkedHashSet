@@ -14,8 +14,7 @@ public class ExemploLinkedHashSet {
         frutas.add("Kiwi");
         frutas.add("Pera");
         frutas.add("Kiwi"); // Outro elemento repetido
-
-
+        
         // Resultado do LinkedHashSet
         // A ordem de inserção é mantida e elementos duplicados não são adicionados
         System.out.println("Frutas: " + frutas);
